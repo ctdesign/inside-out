@@ -1,3 +1,20 @@
 html, body {
-    font-family: "Nunito", sans-serif!important;
+    font-family: "Nunito Sans", sans-serif!important;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100,
+    "YTLC" 500;
+}
+
+.logo {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+#sib-form p {
+    font-family: "Nunito Sans", sans-serif!important;
+    color: #000;
 }
