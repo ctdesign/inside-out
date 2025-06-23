@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <section class="blog__list">
-  <div class="site__container">
+  <div class="container">
     <h2 class="blog__title">Latest Blog Posts</h2>
     <ul class="blog__posts">
       {% for post in site.posts %}
