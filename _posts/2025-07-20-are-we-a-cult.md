@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Welcome to Inside Out
+title: Are we a cult?
 ---
 
-We're here to help service designers build their skills through practical, real-world training. Stay tuned for updates.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar mattis metus, vel malesuada leo vehicula eu. Duis maximus placerat neque in aliquet. Donec sit amet placerat tellus, a ornare nunc. Duis feugiat porta porttitor. Ut consectetur felis vitae quam elementum ornare. Curabitur convallis finibus aliquet. Donec neque felis, congue non fermentum eu, commodo eu nisl. Vestibulum nec pulvinar massa, quis dignissim ipsum. Etiam suscipit nunc nibh, sed consectetur purus finibus nec. Nunc vitae risus gravida, rhoncus justo eget, ullamcorper risus. Nullam scelerisque vel neque id viverra.
+
+Donec vel ex eget massa convallis ultricies eget nec elit. Praesent suscipit tortor ante, vitae ornare mi convallis non. Sed congue erat at sagittis auctor. Etiam imperdiet, dui vel gravida dictum, ex ex tristique justo, at vehicula est lorem at augue. Phasellus convallis mi neque, nec blandit nulla ornare eu. Aliquam auctor turpis at volutpat cursus. Cras sed odio et urna porttitor lacinia non ut eros. Vivamus id rhoncus erat. Integer vel arcu vitae justo hendrerit eleifend vel vel odio. Phasellus a mauris auctor nibh semper luctus quis et urna. Quisque rhoncus efficitur lorem, non posuere lorem rhoncus id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas commodo aliquam sollicitudin.
+
+Duis nec consequat metus, tincidunt tempus lectus. Duis sed est eget felis convallis feugiat feugiat vitae risus. Sed quis tincidunt orci, at ornare ante. Praesent a eros erat. Integer vel ornare turpis. Curabitur ut mauris interdum, venenatis dui sed, tempus lorem. Nam eleifend pretium lacus, a dapibus enim commodo sit amet. Praesent ut sem gravida, iaculis purus in, sollicitudin risus.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pulvinar mattis metus, vel malesuada leo vehicula eu. Duis maximus placerat neque in aliquet. Donec sit amet placerat tellus, a ornare nunc. Duis feugiat porta porttitor. Ut consectetur felis vitae quam elementum ornare. Curabitur convallis finibus aliquet. Donec neque felis, congue non fermentum eu, commodo eu nisl. Vestibulum nec pulvinar massa, quis dignissim ipsum. Etiam suscipit nunc nibh, sed consectetur purus finibus nec. Nunc vitae risus gravida, rhoncus justo eget, ullamcorper risus. Nullam scelerisque vel neque id viverra.
 

@@ -1,4 +1,5 @@
-title: Inside Out
-description: Training for Service Designers
+title: Inside Out Service Design
+description: Pragmatic workshops and thoughts around service design
 baseurl: ""
-url: "https://yourdomain.com"
+# url: "https://yourdomain.com"
+permalink: /:title/
